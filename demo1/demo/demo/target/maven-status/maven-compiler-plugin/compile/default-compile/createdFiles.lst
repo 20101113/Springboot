@@ -1,0 +1,6 @@
+com\example\librarayapp\controller\BookController.class
+com\example\librarayapp\service\BeanRetrievalService.class
+com\example\bookapi\model\Book.class
+com\example\librarayapp\LibraryApplication.class
+com\example\librarayapp\service\LibraryService.class
+com\example\librarayapp\controller\AdminController.class
