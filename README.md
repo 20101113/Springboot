@@ -24,7 +24,7 @@ Setup Instructions:
 Clone the repository to your local machine using git clone.
 Ensure you have Java 11 or higher installed.
 Install Maven to build the projects.
-Configure necessary API keys for external services like OpenWeather API.
+Configure necessary API keys for external services like PostMan API.
 Run the Spring Boot applications using the commands provided above.
 
 
